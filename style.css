@@ -4,3 +4,9 @@ h1{
 p{
     color: blue;
 }
+input{
+    color: chartreuse;
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+}
